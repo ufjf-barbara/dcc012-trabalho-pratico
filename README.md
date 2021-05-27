@@ -1,1 +1,9 @@
-# dcc012-trabalho-pratico
+# Trabalho Pratico 
+
+## Equipe
+
+## Descriçao
+
+## Como compilar
+
+## Como rodar
